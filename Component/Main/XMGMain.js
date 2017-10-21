@@ -30,7 +30,7 @@ export default class Main extends Component {
 					<TabNavigator>
 						  {this.renderTabBarItem("首页",'icon_tabbar_homepage','icon_tabbar_homepage_selected','home','首页',Home)}
 						  {this.renderTabBarItem("商家",'icon_tabbar_mine','icon_tabbar_merchant_selected','shop','商家',Shop)}
-						  {this.renderTabBarItem("我的",'icon_tabbar_homepage','icon_tabbar_mine_selected','mine','我的',Mine)}
+						  {this.renderTabBarItem("我的",'icon_tabbar_homepage','icon_tabbar_homepage_selected','mine','我的',Mine)}
 						  {this.renderTabBarItem("更多",'icon_tabbar_misc','icon_tabbar_misc_selected','more','更多',More)}
 					</TabNavigator>
 			);
