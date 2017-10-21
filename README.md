@@ -5,4 +5,4 @@ react-native开发练习，根据小马哥电商学习的
 
 npm install
 
-http://github.com/xiaoyaliu/shop.git/Shop/blob/master/info/index.png
+http://github.com/xiaoyaliu/Shop/info/index.png
